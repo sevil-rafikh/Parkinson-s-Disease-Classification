@@ -1,1 +1,3 @@
 # Parkinson-s-Disease-Classification
+
+This project focuses on classifying Parkinson’s Disease using a publicly available dataset from Kaggle. Two machine learning models—Histogram-Based Gradient Boosting and Random Forest—were implemented, both achieving an accuracy of 87% on the test set. Hyperparameter tuning with GridSearchCV led to a substantial improvement in model performance, increasing the F1-score for class 0 from 0.71 to 0.92, while consistently maintaining a high F1-score of 0.92 for class 1. The final model demonstrates balanced and reliable classification performance across both classes
